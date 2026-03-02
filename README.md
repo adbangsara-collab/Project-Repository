@@ -9,3 +9,5 @@ DEVELOPERS Aiden Morales Jolo Macasieb Arje Bangsara
 
 Here is the link to view the changes that were made during the making of the document file:
 https://docs.google.com/document/d/1rdl7LBQi93-GoayYp0fzSCrvqSA7wM1mamZ_ofopDsM/edit?usp=sharing
+
+To view the version history, click on the symbol resembling a clock with an arrow going counter-clockwise found on the tools tab.
